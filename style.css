@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 2rem;
+}
+
+.header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+p {
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+.oath {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.oath h2 {
+    margin-bottom: 0.5rem;
+}
+
+.oath ul {
+    list-style: disc;
+    padding-left: 1.5rem;
+}
+
+.oath h3 {
+    margin-top: 1rem;
+}
+
+.oath h4 {
+    margin-bottom: 0.5rem;
+}
